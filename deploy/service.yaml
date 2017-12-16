@@ -8,6 +8,7 @@ metadata:
   labels:
     io.kompose.service: resume
   name: resume
+  namespace: kube-public
 spec:
   ports:
   - name: "resumesite"
