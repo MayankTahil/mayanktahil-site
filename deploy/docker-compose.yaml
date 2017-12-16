@@ -1,0 +1,9 @@
+---
+version: "2"
+services:
+  # Locally hosted resume site
+  resume: 
+    image: mayankt/resume:master
+    ports:
+      - "80:80"
+    hostname: resume

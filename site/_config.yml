@@ -73,8 +73,8 @@ deploy:
   repo: git@github.com:mayanktahil/resume.git
   branch: hexo
 
-# google_analytics: UA-52188553-1
-disqus_shortname: mayank-tahil
+google_analytics: UA-108403055-1
+# disqus_shortname: mayank.tahil.site
 
 stylus:
   compress: true
